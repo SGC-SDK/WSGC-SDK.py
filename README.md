@@ -3,7 +3,7 @@ Implements of WebSocket SGC Client
 
 # How to Setup
 
-`pip install wsgc-sdk`
+`pip install git+https://github.com/SGC-SDK/WSGC-SDK.py.git`
 
 # Example
 
